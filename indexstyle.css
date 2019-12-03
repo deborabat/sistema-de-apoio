@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('https://image.freepik.com/vetores-gratis/fundo-de-rosto-de-inteligencia-artificial-de-particulas_23-2148291475.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 80%;
+align-content: center;
+}
+
+.card{
+height: 350px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card-header h3{
+    color: white;
+}
+    
+.links{
+    color: white;
+}
+        
+.links a{
+    margin-left: 4px;
+}
+    
